@@ -1,0 +1,5 @@
+#ak van todos los archivos que no quieres que se suban a githud
+#extenciones, archivos, carpetas,etc
+
+#no quiero que se ejecuten todos los ejecutables 0 los que terminan con .exe
+*.exe
