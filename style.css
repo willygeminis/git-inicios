@@ -1,6 +1,13 @@
-body{
-    background-color: bisque;
+body {
+  background-color: azure;
 }
-h1{
-    color: black;
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+li {
+  font-size: 20px;
 }
