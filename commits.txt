@@ -1,0 +1,152 @@
+commit 8a42ae7cbadaaea975018f41377f0fd9cb57c24f
+Author: will-utp <U21225653@utp.edu.pe>
+Date:   Sat Feb 17 15:16:40 2024 -0500
+
+    probando como va todo
+
+commit d253ff41124e4bd293526671e194548650659e2e
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Sat Feb 17 15:08:18 2024 -0500
+
+    volvi a nacer
+
+commit c4b631f4a6986e7b284eca6d167acf89f639ec95
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Fri Feb 16 15:04:56 2024 -0500
+
+    poniendo bomito al html
+
+commit 2bc55ae922efdcac08642b9f52b7c8dcdcf4ef02
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Fri Feb 16 14:40:10 2024 -0500
+
+    v1.0.0
+
+commit c6a3c5515cbeaa56da970c11f2b3f74dffccceae
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Fri Feb 16 10:02:25 2024 -0500
+
+    un nuevo dia aprendiendo git
+
+commit b1f4c77a8257365ca049f94ca3fa1882e32722de
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 23:03:21 2024 -0500
+
+    estaciones del año
+
+commit 92486ce6a37b69ecb2f97499b88098db896e06da
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 22:17:32 2024 -0500
+
+    segundo intento en conflicto
+
+commit 26c55211012433069a83f3d1ef9f4065d938a8c4
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 22:13:30 2024 -0500
+
+    entendiendo esto
+
+commit 089ae7cd84fe7cabeb82daacedbe5ca8d7fa4834
+Merge: 1176a84 46ecbb8
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 22:09:15 2024 -0500
+
+    Merge branch 'html'
+
+commit 46ecbb875695695f68492a8981091596a4ed308a
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 22:08:28 2024 -0500
+
+    modificar indes desde html
+
+commit 1176a8424bc1558564c7f397a9623583d7ca0d50
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 22:05:32 2024 -0500
+
+    modicar indes desde main
+
+commit 83ff1f6873e0e34ff263d22b84580e01003fe98f
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:46:41 2024 -0500
+
+    error tipografico
+
+commit 9a64c21e91c90e191184eb55a3b9f5e355ef16c1
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:41:56 2024 -0500
+
+    unio de css y html
+
+commit b5d0d38e14b5e403a414c9134d9392547b1ad012
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:40:42 2024 -0500
+
+    contenido en html & css
+
+commit 136beb2af4c9893814a5e0fa33eb49179f73a9a7
+Merge: bf90f6c 0a54112
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:36:57 2024 -0500
+
+    Merge branch 'css'
+
+commit bf90f6ca06ff114bde7793f7964e656cee6e509a
+Merge: 47f8c98 56fa5b0
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:36:51 2024 -0500
+
+    Merge branch 'html'
+
+commit 56fa5b0a349100d3ee1beaea68afda4700ef1ae0
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:31:07 2024 -0500
+
+    guardar archivo html
+
+commit 0a54112c22f05dd9b288798f48513addcf7d6997
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:29:14 2024 -0500
+
+    guardando carpeta en css
+
+commit 47f8c988e1ad2408f88e4ac71044d61f8e5682e4
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:25:29 2024 -0500
+
+    corregir las ramas
+
+commit 289c31e1a5907cdeabae890f41af5c48b87ef9c1
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 18:22:20 2024 -0500
+
+    creando ramas
+
+commit 7512a791262901a2ffee67a693318d21babfba51
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 17:45:48 2024 -0500
+
+    hacer que githud ignore todos los qrchivos .exe
+
+commit 248fba61c5648bc59065de294475594b40114791
+Author: Willy Peña <144640375+willygeminis@users.noreply.github.com>
+Date:   Thu Feb 15 15:53:58 2024 -0500
+
+    Create LICENSE
+
+commit 471e308e3d24109cef13d4c031d18ae26a85b243
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 15:44:32 2024 -0500
+
+    sigo escribiendo en el readme
+
+commit 8173045f7e38fc31bab8bedefc29a32abb07bac4
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 15:32:20 2024 -0500
+
+    agregando contenido inicial al readme
+
+commit 7df6befa68f3b08385d3aa16e7424e943e8707f4
+Author: willy peña <geminisx23@hotmail.com>
+Date:   Thu Feb 15 11:13:33 2024 -0500
+
+    mi primer commit 🧔
